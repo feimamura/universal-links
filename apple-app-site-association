@@ -3,12 +3,8 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "V56DNFR392.br.com.gsw.spcconsumidor",
-				"paths": [ "*"]
-			},
-			{
 				"appID": "TUXVWJWEHZ.br.com.spc.spcconsumidor",
-				"paths": [ "*"]
+				"paths": ["*"]
 			}
 		]
 	}
