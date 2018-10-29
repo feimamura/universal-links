@@ -3,10 +3,6 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "TUXVWJWEHZ.br.com.spc.spcconsumidor",
-				"paths": ["*"]
-			},
-			{
 				"appID": "V56DNFR392.br.com.gsw.missaointernacional",
 				"paths": ["*"]
 			}
